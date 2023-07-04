@@ -1,14 +1,15 @@
 <h1 align="center">Olá! 👋 Eu sou Kleuton Novais <br /> Seja bem vindo ao meu perfil no GitHub 👨🏻‍💻</h1>
 
-<div align= "center">
+<div style="display: flex;" align= "center">
   <a href="https://github.com/kleutons">
     <img style="background-color: #fff;" height="200em" src="https://github-readme-stats.vercel.app/api?username=kleutons&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleutons&layout=compact&langs_count=16&theme=dark" />
+  </a>
 </div><br />
 
 <h2 align= "center">Tecnologias utilizadas</h2>
 
-<div style="display: flex; background: #fff !important;" align= "center">
+<div style="display: flex;" align= "center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
