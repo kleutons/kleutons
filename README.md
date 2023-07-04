@@ -1,11 +1,13 @@
 <h1 align="center">Olá! 👋 Eu sou Kleuton Novais <br /> Seja bem vindo ao meu perfil no GitHub 👨🏻‍💻</h1>
 
-<div style="display: flex;" align= "center">
+<div align="center">  
   <a href="https://github.com/kleutons">
-    <img style="background-color: #fff;" height="200em" src="https://github-readme-stats.vercel.app/api?username=kleutons&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleutons&layout=compact&langs_count=16&theme=dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   </a>
-</div><br />
+  <a href="https://github.com/kleutons">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleutons&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </a>
+</div>
 
 <h2 align= "center">Tecnologias utilizadas</h2>
 
