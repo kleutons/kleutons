@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Kleuton Novais <br /> Seja bem vindo ao meu perfil no GitHub 👨🏻‍💻</h1>
+<h1 align="center">Olá! 👋 Eu sou Kleuton Novais <br /> Seja bem vindo ao meu GitHub 👨🏻‍💻</h1>
 
 <div align="center">  
   <a href="https://github.com/kleutons">
