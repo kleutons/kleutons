@@ -2,12 +2,26 @@
 
 <div align="center">  
   <a href="https://github.com/kleutons">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&theme=holi&show_icons=true" alt="kleuton novais github stats" /> 
+
+    
   </a>
   <a href="https://github.com/kleutons">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleutons&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </a>
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <h2 align= "center">Tecnologias utilizadas</h2>
 
