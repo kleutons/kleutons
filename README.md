@@ -5,7 +5,7 @@
 
 <div align="center">  
   <a href="https://github.com/kleutons">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&theme=holi&show_icons=true&rank_iconpercentile" alt="kleuton novais github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&theme=holi&show_icons=true&rank_icon=percentile" alt="kleuton novais github stats" /> 
 
     
   </a>
