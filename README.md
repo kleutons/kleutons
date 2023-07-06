@@ -35,10 +35,10 @@
 <h2 align="center">✨ Contatos</h2>
  
 <div align="center"> 
-  <a href="https://instagram.com/kleuton.novais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>  
-  <a href="https://www.linkedin.com/in/kleuton-novais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-  <a href="https://www.facebook.com/kleuton.novais" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   <a href="https://github.com/kleutons" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/kleuton-novais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+  <a href="https://instagram.com/kleuton.novais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>  
+  <a href="https://www.facebook.com/kleuton.novais" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   <a href="https://www.youtube.com/channel/UCFOjyehiRmu9WSb0_FdTEsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
