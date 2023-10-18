@@ -17,6 +17,7 @@ Iniciei na área com PHP para desenvolver meu sistema de exames de vista, e atua
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kleutons) 
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://github.com/kleutons) 
 
+[![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)](https://github.com/kleutons) 
 [![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://github.com/kleutons) 
 [![Next.js](https://img.shields.io/badge/Next.Js-000?style=for-the-badge&logo=nextdotjs)](https://github.com/kleutons) 
 [![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/kleutons) 
