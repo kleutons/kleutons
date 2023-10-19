@@ -1,4 +1,4 @@
-# <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18BAF7&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Eu+sou+Kleuton+Novais;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBSeja+bem+vindo+ao+meu+GitHub" />
+.# <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18BAF7&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Eu+sou+Kleuton+Novais;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBSeja+bem+vindo+ao+meu+GitHub" />
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kleutons&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
@@ -56,7 +56,7 @@ Iniciei na área com PHP para desenvolver meu sistema de exames de vista, e atua
 <br>
 
 # 💻 Meus Principais Desafios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/dio-lab-open-source) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=capputeeno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/capputeeno) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=my-shop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/my-shop)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=angular-ibblog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/my-shop)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/dio-lab-open-source) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=capputeeno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/capputeeno) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=my-shop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/my-shop)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kleutons&repo=angular-ibblog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E34F26F&text_color=FFF)](https://github.com/kleutons/angular-ibblog)
 
 <br>
 
