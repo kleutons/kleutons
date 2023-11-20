@@ -5,9 +5,8 @@
 [<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&theme=holi&show_icons=true&rank_icon=percentile" alt="kleuton novais github stats" />](https://github.com/kleutons) [<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=holi" />](https://github.com/kleutons)
 
 # 👨🏻‍💻 Sobre
-Kleuton (Cleuton) Novais, sou um optometrista no mundo tech. Estou em transição de carreira, saindo dos códigos visuais para os códigos computacionais.<br>
-Iniciei na área com PHP para desenvolver meu sistema de exames de vista, e atualmente tenho me dedicado ao React, Node.js e Java, meu objetivo é criar aplicações pensando na melhor usabilidade do usuário. <br>
-⁠Estou sempre aberto a novas *oportunidades* e *desafios*.
+Cleuton Novais ou mais conhecido como Kleuton, sou programador e entusiasta em tecnologia, minha jornada iniciou como hobby quando decidi criar minha própria aplicação em PHP, desde então me aprofundei em outras tecnologias para continuar minha evolução como programador.
+Meu Objetivo é Criar Aplicações Incríveis para a Melhor Experiência ao Usuário, estou Pronto para Abraçar Novas e Oportunidades e Desafios!
 
 <br>
 
