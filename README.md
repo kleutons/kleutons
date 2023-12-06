@@ -1,6 +1,6 @@
 .# <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18BAF7&vCenter=true&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Eu+sou+Kleuton+Novais;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBSeja+bem+vindo+ao+meu+GitHub" />
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kleutons&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kleutons&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox) -->
 
 [<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kleutons&theme=holi&show_icons=true&rank_icon=percentile" alt="kleuton novais github stats" />](https://github.com/kleutons) [<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=holi" />](https://github.com/kleutons)
 
